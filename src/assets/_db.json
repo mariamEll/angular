@@ -1,0 +1,58 @@
+{
+    "members": [
+        {
+            "id":"12345",
+            "cin":"1236",
+            "name":"imen",
+            "createDate":"13/09/2022",
+            "cv":"lien",
+            "type":"Student"
+          },
+          {
+            "id":"12346",
+            "cin":"1237",
+            "name":"Nahla",
+            "createDate":"12/09/2022",
+            "cv":"lien",
+            "type":"Teacher"
+          },
+          {
+            "id":"12347",
+            "cin":"1238",
+            "name":"Asma",
+            "createDate":"11/09/2022",
+            "cv":"lien",
+            "type":"Doctor"
+          }
+
+    ],
+    "articles": [
+      {
+          "idArticle":"123",
+          "type":"machine learning",
+          "titre":"machine learning approach",
+          "lien":"chay",
+          "date":"13/09/2022",
+          "sourcepdf":"chay",
+          "auteur":"Aziz"
+        },
+        {
+          "idArticle":"124",
+          "type":"artifical intelligence",
+          "titre":"artificial intelligence approach",
+          "lien":"chay",
+          "date":"14/09/2022",
+          "sourcepdf":"chay",
+          "auteur":"Yosr"
+        },
+        {
+          "idArticle":"125",
+          "type":"Computer vision",
+          "titre":"computer vision approach",
+          "lien":"chay",
+          "date":"14/09/2022",
+          "sourcepdf":"chay",
+          "auteur":"Mariam"
+        }]
+
+}
